@@ -1,1 +1,2 @@
-# Goblin-Infinite-Ascension
+# Goblin: Infinite Ascension v0.1.0 prototype
+Upload index.html to a new GitHub Pages repository. Requires internet for Three.js CDN and HTTPS for WebXR. Mobile: left joystick, drag scene to rotate, action buttons. Desktop: WASD and drag. Quest: experimental VR button, left stick and controller triggers. Local save only. Procedural placeholder character and enemies; fal GLB not bundled because network download failed. Great Sage is rule-based; fusion creates collectible names, not functional effects yet. No headset or browser runtime verification performed.
